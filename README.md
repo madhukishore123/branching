@@ -49,7 +49,7 @@ img {
 				</head>
 				<body>
 					<img src="http://www.continuousautomation.com/wp-content/uploads/2014/08/scarybranchdiagram.png" alt="HTML5 Icon" style="width:128px;height:128px;">
-						<img src="http://nvie.com/img/git-model@2x.png" alt="HTML5 Icon" width="128" height="128">
+						<img src="http://nvie.com/img/git-model@2x.png" alt="HTML5 Icon" >
             <img src="https://image.slidesharecdn.com/branchingstrategies-141022194356-conversion-gate01/95/branching-strategies-for-git-and-subversion-8-638.jpg?cb=1414513053">
 						</body>
 					</html>
