@@ -71,7 +71,7 @@ img {
 <p><br>The repository setup that we use and that works well with this branching model, is that with a central “truth” repo. Note that this repo is only considered to be the central one (since Git is a DVCS, there is no such thing as a central repo at a technical level). We will refer to this repo as origin, since this name is familiar to all Git users.Each developer pulls and pushes to origin. But besides the centralized push-pull relationships, each developer may also pull changes from other peers to form sub teams. 
 	</br></p>
 	
-	<h3>Work flow Diagram</h3>
+	<h1>Work flow Diagram</h1>
 	
 	
 	<img src="http://nvie.com/img/centr-decentr@2x.png">
